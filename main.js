@@ -1,5 +1,3 @@
-import axios from "axios"
-
 // Icon Map
 
 const ICON_MAP = new Map()
