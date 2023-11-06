@@ -4,7 +4,7 @@ This project constitutes a simple weather application developed using JavaScript
 ## Preview:
 <img width="475" alt="image" src="https://user-images.githubusercontent.com/113793178/218819042-a9e81e58-1e21-42aa-b37c-67c093c9e4ab.png">
 
-### [Live Demo](https://03kiko.github.io/weather_app/)
+### [Live Demo](https://03kiko.github.io/Weather-App/)
 
 ## Usage
 To employ the Weather App, grant the application permission to access your location when prompted. Subsequently, the application will display the current weather conditions for your location.
